@@ -1,0 +1,14 @@
+/Users/alainrene/Desktop/AugustWeek2/StudentDatabase/bin/Debug/net8.0/StudentDatabase
+/Users/alainrene/Desktop/AugustWeek2/StudentDatabase/bin/Debug/net8.0/StudentDatabase.deps.json
+/Users/alainrene/Desktop/AugustWeek2/StudentDatabase/bin/Debug/net8.0/StudentDatabase.runtimeconfig.json
+/Users/alainrene/Desktop/AugustWeek2/StudentDatabase/bin/Debug/net8.0/StudentDatabase.dll
+/Users/alainrene/Desktop/AugustWeek2/StudentDatabase/bin/Debug/net8.0/StudentDatabase.pdb
+/Users/alainrene/Desktop/AugustWeek2/StudentDatabase/obj/Debug/net8.0/StudentDatabase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alainrene/Desktop/AugustWeek2/StudentDatabase/obj/Debug/net8.0/StudentDatabase.AssemblyInfoInputs.cache
+/Users/alainrene/Desktop/AugustWeek2/StudentDatabase/obj/Debug/net8.0/StudentDatabase.AssemblyInfo.cs
+/Users/alainrene/Desktop/AugustWeek2/StudentDatabase/obj/Debug/net8.0/StudentDatabase.csproj.CoreCompileInputs.cache
+/Users/alainrene/Desktop/AugustWeek2/StudentDatabase/obj/Debug/net8.0/StudentDatabase.dll
+/Users/alainrene/Desktop/AugustWeek2/StudentDatabase/obj/Debug/net8.0/refint/StudentDatabase.dll
+/Users/alainrene/Desktop/AugustWeek2/StudentDatabase/obj/Debug/net8.0/StudentDatabase.pdb
+/Users/alainrene/Desktop/AugustWeek2/StudentDatabase/obj/Debug/net8.0/StudentDatabase.genruntimeconfig.cache
+/Users/alainrene/Desktop/AugustWeek2/StudentDatabase/obj/Debug/net8.0/ref/StudentDatabase.dll
